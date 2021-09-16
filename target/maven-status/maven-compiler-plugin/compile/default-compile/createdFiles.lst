@@ -1,0 +1,5 @@
+com\yzf\sharding\rule\MyDatabasePreciseShardingAlgorithm.class
+com\yzf\sharding\rule\MyDatabaseRangeShardingAlgorithm.class
+com\yzf\sharding\rule\MyTablePreciseShardingAlgorithm.class
+com\yzf\sharding\rule\MyTableRangeShardingAlgorithm.class
+com\yzf\sharding\spiextention\MyKeyGenerateAlgorithm.class

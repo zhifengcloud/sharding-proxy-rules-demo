@@ -1,0 +1,5 @@
+D:\idea_project\other\yzf\sharding-proxy-rules\src\main\java\com\yzf\sharding\spiextention\MyKeyGenerateAlgorithm.java
+D:\idea_project\other\yzf\sharding-proxy-rules\src\main\java\com\yzf\sharding\rule\MyTableRangeShardingAlgorithm.java
+D:\idea_project\other\yzf\sharding-proxy-rules\src\main\java\com\yzf\sharding\rule\MyDatabaseRangeShardingAlgorithm.java
+D:\idea_project\other\yzf\sharding-proxy-rules\src\main\java\com\yzf\sharding\rule\MyDatabasePreciseShardingAlgorithm.java
+D:\idea_project\other\yzf\sharding-proxy-rules\src\main\java\com\yzf\sharding\rule\MyTablePreciseShardingAlgorithm.java
